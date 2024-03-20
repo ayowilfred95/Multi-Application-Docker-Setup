@@ -23,6 +23,14 @@ app.get("/", (req, res) => {
       id: "4",
       title: "Story of my Devops Journey",
     },
+    {
+      id: "5",
+      title: "Devops involves people,principle and tools",
+    },
+    {
+      id: "6",
+      title: "Nupat Technologies comes with bulky learning environment and amazing facilitators",
+    },
   ]);
 });
 
